@@ -1,9 +1,9 @@
-package com.pantsinc.UserAuthentication.controller;
+package com.pantsinc.FoodReactionTracker.controller;
 
-import com.pantsinc.UserAuthentication.dto.AuthResponse;
-import com.pantsinc.UserAuthentication.dto.LoginRequest;
-import com.pantsinc.UserAuthentication.dto.SignupRequest;
-import com.pantsinc.UserAuthentication.service.AuthService;
+import com.pantsinc.FoodReactionTracker.dto.AuthResponse;
+import com.pantsinc.FoodReactionTracker.dto.LoginRequest;
+import com.pantsinc.FoodReactionTracker.dto.SignupRequest;
+import com.pantsinc.FoodReactionTracker.service.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

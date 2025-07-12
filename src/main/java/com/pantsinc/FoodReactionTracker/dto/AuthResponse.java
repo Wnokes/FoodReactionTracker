@@ -1,4 +1,4 @@
-package com.pantsinc.UserAuthentication.dto;
+package com.pantsinc.FoodReactionTracker.dto;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package com.pantsinc.UserAuthentication.repository;
+package com.pantsinc.FoodReactionTracker.repository;
 
-import com.pantsinc.UserAuthentication.entity.User;
+import com.pantsinc.FoodReactionTracker.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

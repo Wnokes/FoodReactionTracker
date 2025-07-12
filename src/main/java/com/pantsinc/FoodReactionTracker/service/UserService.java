@@ -1,6 +1,6 @@
-package com.pantsinc.UserAuthentication.service;
+package com.pantsinc.FoodReactionTracker.service;
 
-import com.pantsinc.UserAuthentication.repository.UserRepository;
+import com.pantsinc.FoodReactionTracker.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

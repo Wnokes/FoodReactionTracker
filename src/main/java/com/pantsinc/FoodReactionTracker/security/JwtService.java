@@ -1,6 +1,6 @@
-package com.pantsinc.UserAuthentication.security;
+package com.pantsinc.FoodReactionTracker.security;
 
-import com.pantsinc.UserAuthentication.entity.User;
+import com.pantsinc.FoodReactionTracker.entity.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

@@ -1,4 +1,4 @@
-package com.pantsinc.UserAuthentication.integration.controller;
+package com.pantsinc.FoodReactionTracker.integration.controller;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;

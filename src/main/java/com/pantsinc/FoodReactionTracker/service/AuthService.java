@@ -1,12 +1,12 @@
-package com.pantsinc.UserAuthentication.service;
+package com.pantsinc.FoodReactionTracker.service;
 
-import com.pantsinc.UserAuthentication.dto.AuthResponse;
-import com.pantsinc.UserAuthentication.dto.LoginRequest;
-import com.pantsinc.UserAuthentication.dto.SignupRequest;
-import com.pantsinc.UserAuthentication.entity.User;
-import com.pantsinc.UserAuthentication.entity.UserRole;
-import com.pantsinc.UserAuthentication.repository.UserRepository;
-import com.pantsinc.UserAuthentication.security.JwtService;
+import com.pantsinc.FoodReactionTracker.dto.AuthResponse;
+import com.pantsinc.FoodReactionTracker.dto.LoginRequest;
+import com.pantsinc.FoodReactionTracker.dto.SignupRequest;
+import com.pantsinc.FoodReactionTracker.entity.User;
+import com.pantsinc.FoodReactionTracker.entity.UserRole;
+import com.pantsinc.FoodReactionTracker.repository.UserRepository;
+import com.pantsinc.FoodReactionTracker.security.JwtService;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.pantsinc.UserAuthentication.entity;
+package com.pantsinc.FoodReactionTracker.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

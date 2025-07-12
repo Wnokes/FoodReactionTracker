@@ -1,8 +1,8 @@
-package com.pantsinc.UserAuthentication.integration.controller;
+package com.pantsinc.FoodReactionTracker.integration.controller;
 
-import com.pantsinc.UserAuthentication.dto.AuthResponse;
-import com.pantsinc.UserAuthentication.dto.LoginRequest;
-import com.pantsinc.UserAuthentication.dto.SignupRequest;
+import com.pantsinc.FoodReactionTracker.dto.AuthResponse;
+import com.pantsinc.FoodReactionTracker.dto.LoginRequest;
+import com.pantsinc.FoodReactionTracker.dto.SignupRequest;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;

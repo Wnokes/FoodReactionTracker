@@ -1,4 +1,4 @@
-package com.pantsinc.UserAuthentication.controller;
+package com.pantsinc.FoodReactionTracker.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
